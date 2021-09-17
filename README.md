@@ -1,6 +1,8 @@
 # flutter_ecomerce_app
 
-A new Flutter project.
+An app that treatment with API : 'https://student.valuxapps.com/api/'  (GET,POST,PUT,DELETE)
+By using Bloc Statemanagement with cubit
+and treatment with shared prefrences 
 
 ## Getting Started
 
